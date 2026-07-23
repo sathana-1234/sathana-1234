@@ -1,10 +1,10 @@
 <div align="center">
 
-# ⚡ Sathana S
+# 👋 Hello, I'm Sathana
 
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+AI+Solutions+for+Real+Problems;Full+Stack+Developer;Learning+Never+Stops!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Smart+Solutions;Full+Stack+Developer;Artificial+Intelligence+Explorer;Always+Learning+Something+New" />
 
 <img src="https://komarev.com/ghpvc/?username=sathana-1234&label=Profile+Views&color=0e75b6&style=flat"/>
 
@@ -12,173 +12,93 @@
 
 ---
 
-# 🌟 Who Am I?
+# 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 B.Tech Computer Science Student passionate about creating innovative software.
+✨ Passionate about designing intelligent applications that solve real-world challenges.
 
-💻 Interested in
+💻 Interested in modern Full Stack Development and AI-based solutions.
 
-- Full Stack Web Development
+🌱 Currently exploring
+
 - Artificial Intelligence
+- MERN Stack
 - Cloud Computing
 - Machine Learning
-- UI/UX Design
-
-🌱 Currently improving my skills in
-
-- React.js
-- Node.js
-- MongoDB
-- Express.js
-- Docker
 - Generative AI
-- REST APIs
 
-✨ I enjoy transforming ideas into practical applications that solve everyday challenges.
+🎯 Goal
 
-📍 India
+> Build innovative software that creates meaningful impact.
 
 ---
 
-# 🚀 Technical Skills
+# ⚙️ Skills
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c"/>
+
 </p>
 
-### Frontend Development
+### 🌐 Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind"/>
+
 </p>
 
-### Backend Development
+### 🔥 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
 </p>
 
-### Database
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
 
-### Tools & Platforms
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+
 </p>
-
----
-
-# 💼 Internship Experience
-
-### 💻 Full Stack Development Intern
-
-- Built responsive web applications
-- Developed REST APIs
-- Worked on frontend-backend integration
-- Debugged and optimized applications
-- Collaborated in Agile development
-
----
-
-# 📚 Academic Highlights
-
-🎓 Bachelor of Technology
-
-**Computer Science & Engineering**
-
-✔ Software Engineering
-
-✔ Database Management Systems
-
-✔ Data Structures
-
-✔ Object Oriented Programming
-
-✔ Artificial Intelligence
-
-✔ Web Technologies
-
-✔ Cloud Computing
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 AI Skill Gap Analysis Agent
+### 🧠 AI Skill Gap Analysis Agent
 
-### 🔹 Description
+📌 AI-powered platform that analyzes users' technical skills, identifies missing competencies, and recommends personalized learning paths.
 
-An intelligent AI system that analyzes users' current skills, identifies missing competencies, and recommends personalized learning paths.
-
-### ⚙ Tech Stack
-
-Python • AI • Machine Learning • NLP
-
-### 🔗 Repository
+🔗 **Repository**
 
 https://github.com/sathana-1234/AI-Skill-Gap-Analysis-Agent
 
 ---
 
-## 🚨 SafePulse Disaster Management System
+### 🌍 SafePulse Disaster Management System
 
-### 🔹 Description
+📌 Smart emergency response system providing disaster alerts, rescue coordination, and resource management.
 
-A smart disaster response platform providing emergency alerts, disaster reporting, rescue coordination, and live information for public safety.
-
-### ⚙ Tech Stack
-
-React • Node.js • MongoDB • Express
-
-### 🔗 Repository
+🔗 **Repository**
 
 https://github.com/sathana-1234/SafePulse-Disaster-Management-System
 
 ---
 
-## 🎯 Smart Attendance System
+### 🎓 Smart Attendance System
 
-### 🔹 Description
+📌 Automated attendance management using modern web technologies for efficient student monitoring.
 
-A digital attendance management solution that automates attendance tracking, stores records securely, and simplifies monitoring for institutions.
-
-### ⚙ Tech Stack
-
-Java • MySQL • Web Technologies
-
-### 🔗 Repository
+🔗 **Repository**
 
 https://github.com/sathana-1234/smart-attendence-system
-
----
-
-# 🏅 Core Competencies
-
-✔ Full Stack Development
-
-✔ REST API Development
-
-✔ Database Design
-
-✔ Responsive UI Development
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Problem Solving
-
-✔ Team Collaboration
-
-✔ Version Control (Git)
 
 ---
 
@@ -186,40 +106,38 @@ https://github.com/sathana-1234/smart-attendence-system
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sathana-1234&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sathana-1234&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathana-1234&theme=tokyonight"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sathana-1234&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathana-1234&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathana-1234&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Current Goals
-
-✨ Master Full Stack Development
-
-✨ Build scalable AI applications
-
-✨ Explore Cloud Technologies
-
-✨ Learn System Design
-
-✨ Contribute to Open Source
-
----
-
-# 🤝 Let's Connect
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/sathana-1234">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add LinkedIn -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Add Gmail -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -228,10 +146,6 @@ https://github.com/sathana-1234/smart-attendence-system
 
 <div align="center">
 
-## 💙 Favorite Quote
-
-### *"Every great application begins with a simple idea and the courage to build it."*
-
-⭐ If you like my work, don't forget to star my repositories!
+### ⭐ *"Code with Passion • Learn with Curiosity • Build for Impact"* ⭐
 
 </div>
