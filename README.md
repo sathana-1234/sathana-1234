@@ -4,9 +4,9 @@
 
 ### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+Smart+Solutions;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;Artificial+Intelligence+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=sathana-1234&label=Profile+Views&color=0E75B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sathana-1234&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
 
 </div>
 
@@ -14,42 +14,54 @@
 
 # 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Passionate Computer Science student with a strong interest in building scalable web applications and AI-powered solutions.
+🎓 Passionate Computer Science student dedicated to building intelligent software solutions using modern technologies.
 
-💻 I enjoy creating innovative software that combines modern web technologies with Artificial Intelligence to solve real-world problems.
+💻 I enjoy creating scalable web applications, AI-powered platforms, and solving real-world problems through innovative software.
 
-🌱 Currently improving my skills in Full Stack Development, Machine Learning, Cloud Computing, and Generative AI.
+🌱 Constantly learning new technologies to enhance my development skills and stay updated with industry trends.
 
-✨ I believe in continuous learning, clean coding practices, and developing impactful applications.
+✨ My goal is to build impactful applications that combine creativity, technology, and innovation.
 
 ---
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript"/>
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind"/>
 </p>
 
-### 🔥 Backend
+## ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🛠 Tools & Technologies
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## ☁ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman"/>
+</p>
+
+## 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma"/>
 </p>
 
 ---
@@ -58,21 +70,21 @@
 
 ## 🤖 AI Skill Gap Analysis Agent
 
-An AI-powered career development platform that evaluates users' technical skills, identifies missing competencies, and generates personalized learning roadmaps aligned with industry standards. The system helps learners improve their employability through intelligent recommendations.
+An AI-powered platform that evaluates users' technical skills, identifies knowledge gaps, and recommends personalized learning paths to help them achieve their career goals efficiently.
 
-### ✨ Key Features
+### ✨ Features
 
-- AI-powered skill assessment
-- Personalized learning roadmap
-- Resume skill analysis
-- Course recommendations
-- Career guidance
-- Progress tracking dashboard
-- Interactive analytics
+- 🤖 AI Skill Assessment
+- 📊 Skill Gap Visualization
+- 🎯 Personalized Learning Roadmap
+- 📚 Course Recommendation
+- 📈 Progress Tracking
+- 📄 Resume Skill Analysis
+- 💼 Career Guidance
 
-### 🛠 Tech Stack
+### 🛠 Technologies Used
 
-`React` `Node.js` `Express.js` `MongoDB` `OpenAI API`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `OpenAI API`
 
 ### 🔗 Repository
 
@@ -82,21 +94,21 @@ https://github.com/sathana-1234/AI-Skill-Gap-Analysis-Agent
 
 ## 🌍 SafePulse Disaster Management System
 
-SafePulse is an intelligent disaster management platform that enhances emergency preparedness through real-time alerts, rescue coordination, and resource management. The platform enables efficient communication between authorities and citizens during disasters.
+SafePulse is an intelligent disaster management platform designed to enhance emergency response through real-time alerts, rescue coordination, live location tracking, and efficient resource management.
 
-### ✨ Key Features
+### ✨ Features
 
-- Real-time disaster alerts
-- Emergency SOS support
-- Live location tracking
-- Interactive disaster maps
-- Rescue team coordination
-- Resource allocation
-- Emergency notification system
+- 🚨 Disaster Alerts
+- 📍 Live Location Tracking
+- 🆘 Emergency SOS
+- 🗺 Interactive Disaster Map
+- 🚑 Rescue Team Coordination
+- 📦 Resource Management
+- 📢 Emergency Notifications
 
-### 🛠 Tech Stack
+### 🛠 Technologies Used
 
-`React` `Node.js` `Express.js` `MongoDB`
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
 ### 🔗 Repository
 
@@ -106,21 +118,21 @@ https://github.com/sathana-1234/SafePulse-Disaster-Management-System
 
 ## 🎓 Smart Attendance System
 
-A modern attendance management solution that simplifies attendance tracking using digital technologies. The application provides secure authentication, attendance reports, faculty management, and detailed analytics for educational institutions.
+A digital attendance management application that automates attendance recording, manages student information, and provides comprehensive attendance analytics for educational institutions.
 
-### ✨ Key Features
+### ✨ Features
 
-- Student registration
-- Faculty management
-- Digital attendance tracking
-- Attendance analytics
-- Monthly reports
-- Secure login system
-- Export attendance records
+- 👨‍🎓 Student Registration
+- 👩‍🏫 Faculty Management
+- 📅 Attendance Tracking
+- 📊 Attendance Analytics
+- 📈 Monthly Reports
+- 🔐 Secure Authentication
+- 📥 Data Export
 
-### 🛠 Tech Stack
+### 🛠 Technologies Used
 
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`HTML` • `CSS` • `JavaScript` • `Node.js` • `MongoDB`
 
 ### 🔗 Repository
 
@@ -132,7 +144,7 @@ https://github.com/sathana-1234/smart-attendence-system
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sathana-1234&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sathana-1234&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -168,44 +180,48 @@ https://github.com/sathana-1234/smart-attendence-system
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sathana-1234/sathana-1234/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 💼 What I Do
 
-| 💻 Full Stack Development | 🤖 Artificial Intelligence | ☁️ Cloud Technologies |
-|---------------------------|----------------------------|----------------------|
-| Develop responsive and scalable web applications using modern frontend and backend technologies. | Build intelligent AI-powered applications that automate tasks and solve real-world challenges. | Deploy secure, reliable, and production-ready applications using cloud platforms and DevOps practices. |
+| 💻 Development | 🤖 Artificial Intelligence | ☁ Cloud Computing |
+|---------------|----------------------------|------------------|
+| Build responsive Full Stack web applications using modern technologies. | Develop AI-powered applications that solve real-world problems intelligently. | Deploy scalable, secure, and production-ready applications on cloud platforms. |
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Core Expertise
 
-<div align="center">
-
-💡 Artificial Intelligence • 🤖 Machine Learning • 🌐 Full Stack Development • ☁️ Cloud Computing • 📊 Data Analytics • 🚀 Open Source
-
-</div>
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 💡 Machine Learning
+- ☁ Cloud Computing
+- 📱 Responsive Web Applications
+- 🔥 REST API Development
+- 🗄 Database Design
+- 🚀 Software Development
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
 - 🚀 Generative AI
 - 🤖 AI Agents
-- 🌐 MERN Stack Development
-- ☁️ Cloud Technologies
-- 🐳 Docker & DevOps
+- 🌐 MERN Stack
+- ☁ Cloud Technologies
+- 🐳 Docker
+- ⚡ DevOps
 - 🔐 Authentication & Security
-- ⚡ REST APIs
 - 📈 System Design
+
+---
+
+# 📜 Certifications
+
+- ☕ Java Programming
+- 🐍 Python Programming
+- ☁ Cloud Fundamentals
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
 
 ---
 
@@ -231,10 +247,14 @@ https://github.com/sathana-1234/smart-attendence-system
 
 <div align="center">
 
-# ⭐ Thanks for Visiting My Profile
+## 💬 Favorite Quote
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;Let's+Build+Amazing+Projects+Together!;Happy+Coding!+🚀"/>
+> **"Success is not achieved overnight. Every line of code, every challenge solved, and every lesson learned brings you one step closer to excellence."**
 
-### 💙 *"Success is built one commit at a time. Keep learning, keep building, and never stop innovating."*
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+
+### ⭐ Thanks for Visiting My GitHub Profile!
 
 </div>
