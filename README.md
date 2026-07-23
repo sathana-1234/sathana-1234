@@ -1,164 +1,172 @@
 <div align="center">
 
-# 🌸 Hey there! I'm Sathana
+# 🌸 Hey there, I'm Sathana 👋
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Learner
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Passionate+About+Artificial+Intelligence;Creating+Solutions+That+Matter;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Building+Creative+Solutions;Exploring+Artificial+Intelligence;Passionate+About+Web+Development;Welcome+to+My+GitHub!" />
 
 </div>
 
 ---
 
-# 🌼 About Me
+# 🌼 Who Am I?
 
-```javascript
-const sathana = {
-   education: "B.Tech Computer Science",
-   location: "India 🇮🇳",
-   role: "Full Stack Developer",
-   interests: [
-      "Artificial Intelligence",
-      "Web Development",
-      "Cloud Computing",
-      "UI/UX Design"
-   ],
-   currentlyLearning: [
-      "React",
-      "Node.js",
-      "MongoDB",
-      "Docker"
-   ],
-   funFact: "Coffee + Coding = Happiness ☕"
-}
-```
+<img align="left" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### Hello! 👋
+
+I'm **Sathana**, a passionate Computer Science student who enjoys creating smart applications that solve real-world challenges.
+
+✨ I love combining creativity with technology.
+
+💡 My interests include:
+
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 📱 Responsive UI Design
+- 📊 Data Analytics
+
+<br clear="left"/>
 
 ---
 
-# ⚡ Technologies I Work With
+# ⚡ Tech Arsenal
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript" />
-</p>
+### Languages
 
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
-</p>
+### Frontend
 
-### ⚙ Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+### Backend
 
-### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Highlight Projects
 
-## 🤖 Smart Expense Tracker
-> AI-powered finance management application
+<table>
 
-**Tech Stack**
-- React
-- Node.js
-- MongoDB
-- Express
-- OpenAI API
+<tr>
+<td width="50%">
 
-🔗 Repository:
-https://github.com/USERNAME/expense-tracker
+## 🎯 Smart Attendance System
+
+📌 Face Recognition Based Attendance
+
+### Features
+
+- 👤 Face Detection
+- 📷 Live Camera Attendance
+- 📊 Attendance Reports
+- 🔐 Secure Login
+
+🔗 Repository
+
+https://github.com/sathana-1234/smart-attendence-system
+
+</td>
+
+<td width="50%">
+
+## 🌍 SafePulse Disaster Management
+
+Emergency Response & Disaster Assistance Platform
+
+### Features
+
+- 🚨 Disaster Alerts
+- 🗺️ Rescue Location Tracking
+- 📢 Emergency Notifications
+- 🏥 Resource Management
+
+🔗 Repository
+
+https://github.com/sathana-1234/SafePulse-Disaster-Management-System
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🤖 AI Skill Gap Analysis Agent
+
+AI-powered platform that analyzes skills and recommends personalized learning paths.
+
+### Highlights
+
+✔ Resume Analysis
+
+✔ Skill Gap Detection
+
+✔ AI Recommendations
+
+✔ Career Roadmap
+
+🔗 Repository
+
+https://github.com/sathana-1234/AI-Skill-Gap-Analysis-Agent
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📖 AI Study Assistant
+# 📈 GitHub Analytics
 
-An intelligent learning platform that automatically generates:
+<div align="center">
 
-- 📚 Notes
-- 📝 Flashcards
-- ✅ Quizzes
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sathana-1234&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Built With**
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sathana-1234&theme=tokyonight&hide_border=true"/>
 
-React • AI • MongoDB • Node.js
-
-🔗 Repository:
-https://github.com/USERNAME/ai-study-assistant
+</div>
 
 ---
 
-## 🎙 Meeting Notes Generator
+# 🌐 Let's Connect
 
-Convert meetings into:
+<div align="center">
 
-✔ Summary
-
-✔ Action Items
-
-✔ Key Highlights
-
-Built using NLP and Speech Processing.
-
----
-
-## 🌐 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<a href="https://github.com/sathana-1234">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 💙 Thanks for Visiting!
+## 🌟 Keep Learning • Keep Building • Keep Growing 🚀
 
-*"Every line of code is a step toward innovation."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
